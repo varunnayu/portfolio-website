@@ -14,7 +14,9 @@
   animation: gradient 6s ease infinite;
 }
 
-
+html,body {
+  scroll-behavior: smooth;
+} 
 
 :root {
   /* Tech-focused design system with cyan/blue primary and dark backgrounds */
