@@ -6,20 +6,20 @@ const skillsData = [
   {
     category: "Frontend",
     skills: [
-      { name: "HTML", level: 5 },
-      { name: "CSS / Tailwind", level: 5 },
-      { name: "JavaScript", level: 4 },
-      { name: "React", level: 4 },
-      { name: "Next.js", level: 3 },
+      { name: "HTML", level: 4 },
+      { name: "CSS / Tailwind", level: 4.5 },
+      { name: "JavaScript", level: 3 },
+      { name: "React", level: 3 },
+    //   { name: "Next.js", level: 3 },
     ],
   },
   {
     category: "Backend",
     skills: [
       { name: "Node.js", level: 3 },
-      { name: "Express", level: 3 },
+      { name: "Firebase", level: 3.5 },
       { name: "MongoDB", level: 3 },
-      { name: "REST APIs", level: 4 },
+      { name: "PHP", level: 3 },
     ],
   },
   {
@@ -27,7 +27,7 @@ const skillsData = [
     skills: [
       { name: "Git & GitHub", level: 4 },
       { name: "VS Code", level: 5 },
-      { name: "Postman", level: 4 },
+      { name: "Postman", level: 2 },
       { name: "Figma", level: 3 },
     ],
   },

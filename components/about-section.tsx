@@ -101,7 +101,7 @@ export function AboutSection() {
                 My goal is to contribute to innovative projects where I can combine data science, analytics, and web technologies to create impactful and scalable solutions.
               </p>
               <a
-                href="/resume.pdf"
+                href="/varun.pdf"
                 download
                 className="mt-6 inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary text-primary-foreground font-medium shadow-lg hover:scale-105 transition-transform"
               >
